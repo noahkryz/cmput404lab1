@@ -1,0 +1,9 @@
+Q1. https://github.com/noahkryz
+Q2. 2.22.0
+Q3. 2.22.0
+Q4. venv(3.5.9) & non-venv(2.7.10)
+Q5. 301 & http://www.google.com/
+Q6. 418 using -i 
+	b) 418 I'm a Teapot
+Q7. In 
+Use -X to determine which request you would like to send
